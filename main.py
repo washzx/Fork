@@ -1,1 +1,1 @@
-printf('Olá mundo!')
+print('Olá mundo!')
